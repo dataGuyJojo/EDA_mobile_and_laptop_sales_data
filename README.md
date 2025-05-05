@@ -1,9 +1,57 @@
-# EDA mobile and laptop sales data
+# 📊 EDA of Mobile and Laptop Sales Data (Mar 2023 – May 2025)
 
-These are the guided questions that will be followed to do the EDA
-This is the dataSet: [Kaggle](https://www.kaggle.com/datasets/vinothkannaece/mobiles-and-laptop-sales-data)
+An in-depth Exploratory Data Analysis (EDA) project based on 50,000+ sales records of mobile and laptop products. The dataset includes customer purchases, product specs, prices, dispatch dates, and more — offering a great opportunity to extract business insights through data storytelling.
 
 ---
+
+## 🔗 Links
+
+- 📘 **Kaggle Notebook**: [View Notebook](https://www.kaggle.com/code/syedasifjohan/eda-of-mobile-and-laptop-sales-data/)
+- ✍️ **Medium Blog**: [Read Article](https://medium.com/@connect.syedasifjohan/unveiling-sales-trends-an-eda-of-mobile-and-laptop-sales-82592f591019)
+- 📊 **Dataset on Kaggle**: [Mobiles and Laptop Sales Data](https://www.kaggle.com/datasets/vinothkannaece/mobiles-and-laptop-sales-data)
+
+---
+
+## 📌 Project Brief
+
+This project analyzes sales transactions from March 2023 to May 2025, focusing on brand performance, regional sales, pricing patterns, and processor preferences. The goal is to identify sales trends and actionable insights using Python and popular data libraries.
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python 3
+- Pandas
+- Matplotlib
+- Seaborn
+- Colab Notebook
+
+---
+
+## 🔄 Project Flow
+
+- **🔍 Data Collection**  
+  Dataset collected from Kaggle, containing detailed records of mobile and laptop sales.
+
+- **🧹 Data Cleaning & Preprocessing**  
+  Cleaned missing values, converted data types, and created new time-related features like month and quarter.
+
+- **📊 Exploratory Data Analysis (EDA)**  
+  Performed groupings and aggregations to analyze trends across brands, regions, product types, and processors.
+
+- **📈 Data Visualization**  
+  Visualized monthly revenues, top brands, regional distributions, and processor-wise sales using Matplotlib and Seaborn.
+
+- **💡 Insight Extraction**  
+  Derived insights around pricing similarities, customer behavior, and product-category performance.
+
+- **📤 Reporting & Sharing**  
+  Published the analysis through a well-structured Jupyter Notebook and shared it across Kaggle, Medium, and GitHub.
+
+---
+
+
+**These are the guided questions that will be followed to do the EDA**
 
 # 🧩 Basic (3 questions)
 
@@ -142,3 +190,25 @@ Q4 is the quarter where most of the sale comes from. though the quarters are ver
     
 
 ---
+
+
+
+## 🧠 Key Insights
+
+- 📱 **Balanced Market**: Sales were evenly distributed between laptops and mobile phones.
+- 💰 **Price Similarity**: Average prices for laptops and mobiles were surprisingly close (~₹102K).
+- 🌍 **Regional Sales**: Western India dominated sales in both categories.
+- 🧑‍💼 **Bulk Buyers**: Certain customers bought over 100 units.
+- 🧠 **Processor Trends**: MediaTek and Exynos led in mobile sales; Intel i9 and Ryzen 3 dominated laptops.
+- ⏳ **Dispatch Delays**: Average dispatch times were ~30 days for both categories.
+
+---
+
+# ✅Conclusion
+This project served as a comprehensive exercise in exploratory data analysis, enabling a deep understanding of both the dataset and the business context behind mobile and laptop sales. From uncovering dominant brands and pricing strategies to identifying regional performance and customer behavior, this analysis highlights how EDA can drive meaningful insights for strategic decision-making.
+
+It also helped me strengthen my skills in data cleaning, visualization, and storytelling — while improving my ability to present findings clearly through notebooks and blog posts.
+
+
+
+
