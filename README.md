@@ -1,6 +1,6 @@
 # 📊 EDA of Mobile and Laptop Sales Data (Mar 2023 – May 2025)
 
-An in-depth Exploratory Data Analysis (EDA) project based on 50,000+ sales records of mobile and laptop products. The dataset includes customer purchases, product specs, prices, dispatch dates, and more — offering a great opportunity to extract business insights through data storytelling.
+An in-depth Exploratory Data Analysis (EDA) project based on 50,000+ simulated sales records of mobile and laptop products. The dataset includes customer purchases, product specs, prices, dispatch dates, and more — offering a great opportunity to extract business insights through data storytelling.
 
 ---
 
