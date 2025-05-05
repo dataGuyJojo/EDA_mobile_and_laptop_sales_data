@@ -76,7 +76,7 @@ This is the dataSet: [Kaggle](https://www.kaggle.com/datasets/vinothkannaece/mob
 
 ---
 
-# 🧠 Advanced (4 questions)
+# 🧠 Advanced (3 questions)
 
 1. **Which month had the highest total sales revenue?**
     
